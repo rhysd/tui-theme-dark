@@ -208,7 +208,12 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 	margin-left: 40px !important;
 }
 
-/* New Notification */
+/* New notifications */
 ._3DltykjD._3bf6snf7._3f2NsD-H {
+	background-color: #2A3D51 !important;
+}
+
+/* Unread direct messages */
+.aPyKj4JW._33HzS5QJ._1bBTfW4q._3f2NsD-H {
 	background-color: #2A3D51 !important;
 }
