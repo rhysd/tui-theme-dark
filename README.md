@@ -3,7 +3,7 @@ Dark Mode for [Tui][]
 
 This is a theme CSS for [Tui][], a Twitter client based on https://mobile.twitter.com.
 
-![screenshot](https://github.com/rhysd/ss/blob/master/tui-theme-dark/main.png)
+<img src="https://github.com/rhysd/ss/blob/master/tui-theme-dark/main.png" width="415" alt="screen shot"/>
 
 ## Installation and Usage
 
