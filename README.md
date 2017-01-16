@@ -7,7 +7,7 @@ This is a theme CSS for [Tui][], a Twitter client based on https://mobile.twitte
 
 ## Installation and Usage
 
-Please copy `user.css` in this repository to your application directory.
+Please copy `theme.css` in this repository to your application directory.
 
 The application directory depends on OS
 
@@ -22,11 +22,11 @@ Easiest way is below:
 ```
 $ cd {app dir}
 $ git clone https://github.com/rhysd/tui-theme-dark.git
-$ ln -s ./tui-theme-dark/user.css user.css
+$ ln -s ./tui-theme-dark/theme.css theme.css
 ```
 
 ## Thanks
 
-`user.css` was generated from [refined-twitter](https://github.com/sindresorhus/refined-twitter/blob/master/extension/dark-mode.css).
+`theme.css` was generated from [refined-twitter](https://github.com/sindresorhus/refined-twitter/blob/master/extension/dark-mode.css).
 
 [Tui]: https://github.com/rhysd/Tui
