@@ -8,3 +8,8 @@
 .aPyKj4JW._33HzS5QJ._1bBTfW4q._3f2NsD-H {
 	background-color: #2A3D51 !important;
 }
+
+/* Link card in a tweet. It must be white when card image has opacity. */
+.MLZaeRvv._1Yv_hemU._3ptnWf7g {
+  background-color: white;
+}
