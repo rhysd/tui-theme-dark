@@ -239,5 +239,5 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 }
 
 .tuitter-focused-item {
-  background-color: #3A4D61 !important;
+  background-color: #1C2F3F !important;
 }
