@@ -220,15 +220,20 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 
 /* Link card in a tweet. It must be white when card image has opacity. */
 .MLZaeRvv._1Yv_hemU._3ptnWf7g {
-  background-color: white;
+  background-color: white !important;
 }
 
 /* Following/Followed counts */
 .Fe7ul3Lt.wErp7S_5._2DggF3sL._3WJqTbOE {
-  color: rgba(255, 255, 255, 0.9);
+  color: rgba(255, 255, 255, 0.9) !important;
 }
 
 /* User list on creating first direct messages */
 ._1MWHskJm._2ZZR2W6- {
   background-color: #192633 !important;
+}
+
+/* Name of list which you're added in mention timeline */
+._3KXvkjuP {
+  color: rgba(255, 255, 255, 0.9) !important;
 }
