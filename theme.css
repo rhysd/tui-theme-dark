@@ -237,3 +237,7 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 ._3KXvkjuP {
   color: rgba(255, 255, 255, 0.9) !important;
 }
+
+.tuitter-focused-item {
+  background-color: #3A4D61 !important;
+}
