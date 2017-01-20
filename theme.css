@@ -210,12 +210,12 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 
 /* New notifications */
 ._3DltykjD._3bf6snf7._3f2NsD-H {
-	background-color: #2A3D51 !important;
+  background-color: #2A3D51 !important;
 }
 
 /* Unread direct messages */
 .aPyKj4JW._33HzS5QJ._1bBTfW4q._3f2NsD-H {
-	background-color: #2A3D51 !important;
+  background-color: #2A3D51 !important;
 }
 
 /* Link card in a tweet. It must be white when card image has opacity. */
@@ -241,6 +241,11 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
 /* Fix background color of tab item in header. It flashes on click in type C */
 ._2vY0UT8z {
   background-color: #192633 !important;
+}
+
+/* Fix form's background color */
+.ktZMpANQ {
+  background-color: #2A3D51 !important;
 }
 
 .tuitter-focused-item {
