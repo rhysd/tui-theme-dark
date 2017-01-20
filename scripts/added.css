@@ -29,6 +29,11 @@
   color: rgba(255, 255, 255, 0.9) !important;
 }
 
+/* Fix background color of tab item in header. It flashes on click in type C */
+._2vY0UT8z {
+  background-color: #192633 !important;
+}
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
