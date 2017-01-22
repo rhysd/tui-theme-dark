@@ -39,6 +39,11 @@
   background-color: #2A3D51 !important;
 }
 
+/* Fix graphs in poll */
+._2WiB3NTn {
+  background-color: #3A4D61 !important;
+}
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
