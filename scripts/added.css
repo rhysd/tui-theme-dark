@@ -52,6 +52,11 @@
   border: 1px solid #3A4D61 !important;
 }
 
+/* Border at middle of new tweet page */
+.zeo-m5c9 {
+  border-top: 1px solid #3A4D61 !important;
+}
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
