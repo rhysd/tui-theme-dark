@@ -253,6 +253,14 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
   background-color: #3A4D61 !important;
 }
 
+/* Fix background color of 'inappropriate contents' panel */
+._2cAUIb4X {
+  background-color: #192633 !important;
+}
+._3QPrjhX2 {
+  border: 1px solid #3A4D61 !important;
+}
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
