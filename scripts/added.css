@@ -65,6 +65,21 @@
   background-color: #192633 !important;
 }
 
+/* Separators in related users */
+.qb_4uBPl {
+  background-color: 1px solid #3A4D61 !important;
+}
+
+/* Borders in user page */
+._2Axq_bxo,
+._3hYuyEYD {
+  border-bottom: 1px solid #3A4D61 !important;
+}
+._3RpX7SHV {
+  border-top: 1px solid #3A4D61 !important;
+}
+
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
