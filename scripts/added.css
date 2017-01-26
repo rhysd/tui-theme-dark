@@ -57,6 +57,14 @@
   border-top: 1px solid #3A4D61 !important;
 }
 
+/* Follow button */
+._38myriBx,
+._38myriBx:active,
+._38myriBx:focus,
+._38myriBx:hover {
+  background-color: #192633 !important;
+}
+
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
 }
