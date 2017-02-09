@@ -79,6 +79,10 @@
   border-top: 1px solid #3A4D61 !important;
 }
 
+/* 'this tweet does not exist' panel */
+._2FOOGcIW {
+  background-color: #192633 !important;
+}
 
 .tuitter-focused-item {
   background-color: #1C2F3F !important;
