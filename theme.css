@@ -293,11 +293,16 @@ html:-webkit-any(.os-linux, .os-win32) ::-webkit-scrollbar-thumb {
   background-color: #192633 !important;
 }
 
-.tuitter-focused-item {
-  background-color: #1C2F3F !important;
-}
-
 /* Fix background color of header */
 ._1d_6kzhv {
   background-color: #192633 !important;
+}
+
+/* Connection line in conversation */
+._1wmatVSh {
+  background-color: #3A4D61 !important;
+}
+
+.tuitter-focused-item {
+  background-color: #1C2F3F !important;
 }
